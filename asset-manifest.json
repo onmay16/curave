@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/curave/static/css/main.53f98db1.css",
-    "main.js": "/curave/static/js/main.ddd79a5d.js",
+    "main.js": "/curave/static/js/main.c4386b7a.js",
     "static/js/787.cda612ba.chunk.js": "/curave/static/js/787.cda612ba.chunk.js",
     "static/media/google.svg": "/curave/static/media/google.3f133b9e85c9357fb9718fd6b20fc65d.svg",
     "static/media/radiohead.png": "/curave/static/media/radiohead.2d0fe259f754e47e5a75.png",
@@ -36,11 +36,11 @@
     "static/media/add-btn.svg": "/curave/static/media/add-btn.d94599eabc3815650080da5adecaecd6.svg",
     "static/media/start-curator.svg": "/curave/static/media/start-curator.fcf8f9156cd8047f594455193a97c44a.svg",
     "main.53f98db1.css.map": "/curave/static/css/main.53f98db1.css.map",
-    "main.ddd79a5d.js.map": "/curave/static/js/main.ddd79a5d.js.map",
+    "main.c4386b7a.js.map": "/curave/static/js/main.c4386b7a.js.map",
     "787.cda612ba.chunk.js.map": "/curave/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53f98db1.css",
-    "static/js/main.ddd79a5d.js"
+    "static/js/main.c4386b7a.js"
   ]
 }
